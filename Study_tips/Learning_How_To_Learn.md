@@ -43,9 +43,7 @@ If it's possible, go to a quiet place and remove anything distracting from your 
 During the pomodoro, your focus should be on spending your best effort actively learning for 25 minutes. 
 Your focus should not be about the end result because you may not be able to complete your task in 25 minutes. Tasks will become complete as a side effect of doing enough pomodoro's.
 
-Requires: 
-
-1. A timer*. 
+Note: Requires a timer*. 
 
 *If you don't have a timer, search online or in an app store for "Pomodoro timer".
 
