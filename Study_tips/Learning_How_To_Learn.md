@@ -64,4 +64,5 @@ If you get distracted during your pomodoro for an extended period of time, resta
 If you remember to do something important that can wait until after the pomodoro, make a note of it and fo back to focusing on studying. 
 
 
-TBD : metaphors, analogies, mnemonics
+ToDo : metaphors, analogies, mnemonics, interleaving, Long term memory -> how often to practice, do little every day, repetition, sleep, exercise, dreams, How to study something new  (focus, understand, context, chunk, pattern, no concept map),
+what is procrastination, ...
