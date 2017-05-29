@@ -17,7 +17,7 @@ In order to learn, you must be able to switch between both modes.
 ### Diffuse Mode := type of thinking required to learn something new (broad learning)
 
 Your mind can enter the diffused mode by taking a step back and looking at the big picture of what you're trying to learn. 
-The goal is to get a general feel of what you're trying to learn without looking at all of the details that complicate it.
+The goal is to get a general feel of what you're trying to learn without looking at all the intricate details.
 
 Methods:
   1. Look at the big picture, not the details.
@@ -60,10 +60,6 @@ Chunking is uniting bits of information with meaning. (ex. walking requires many
 
 Remember that the working memory can usually only store 4 parts at a time. Chunked material only requires one slot so the brain can run more efficiently.
 
-
-## Recall
-  When you read material, try to recall the main points without looking. Write down what you can remember and compare it to the written material. The retrieval process enchances deep learning.
-  
 ## Process not Product
 
 ### Process := the flow of time and habits associated with it (ex. spend 30 minutes working on problems)
@@ -72,16 +68,37 @@ Remember that the working memory can usually only store 4 parts at a time. Chunk
 
 When you focus on the product, i.e finishing your homework, the end result may seem far from being achieved and it can be discouraging. Instead, focus on spending chunks of time spending your best effort working on problems. Each chunk of time you spend focusing during a process is a success and is worthy of a small reward. More on this below.
 
-## Picture walk
+## Change locations
+
+Sometimes if you study in the same location regularly, you can only remember information because of environmental queues. You want to be able to recall information independantly of local queues like in an examination room. To do this, try studying in different locations.
+
+## Deliberate Practice
+
+Practice what you don't have a solid grasp of and what you find difficult. Overlearning material you are familar with is easy and not a good use of study time. 
+
+## Eat Your Biggest Frogs First
+
+Do your hardest task first. Mark Twain once said "If it's your job to eat a frog, it's best to do it first thing in the morning. And if it's your job to eat two frogs, it's best to eat the biggest one first."
+
+## Verify Answers (Focus Mode)
+
+## Recall (Focus Mode)
+
+When you read material, try to recall the main points without looking. Write down what you can remember and compare it to the written material. The retrieval process enchances deep learning.
+
+## Summarize (Focus Mode)
+
+Summarizing is a great way to tie everything together and synthesize information into smaller chunks. It's a great way to create neural connections between ideas that are related.
+
+## Interleaving
+
+
+## Picture walk (Diffuse Mode)
 
 When reading something for the first time, do a picture walk of the material. If you are reading a chapter, skim ahead and look at the general theme of the chapter. Look at the pictures, read the headings and bolded text, and get an idea of what you're about to learn. The goal isn't to understand everything. You are just trying to become familiar with the material. When you actually read the chapter, you may find it easier to see how the details fit into the theme of the chapter.
 
-## Summarize
-
-Summarizing is a great way to tie everything together. 
-
-
-
+## Create and do mock tests (Both modes)
+  
 ## Putting it all together with Focus, Understand, and Concept (FUC)
 
 1. Focus - Use limited spots in working memory towards learning objective (don't be distracted!)
@@ -94,14 +111,13 @@ Summarizing is a great way to tie everything together.
 
         Read and Recall
           
-      Write summarizing notes in the margins (synthesize information into smaller chunks)
+        Summarize
           
-      Recall information in different locations (Want to remember independant of local queues)
+        Change locations
           
-      Deliberately practice what you don't have a solid grasp of and what you find difficult.
+        Deliberately practice
       
-      Do your hardest task first. Mark Twain once said "If it's your hob to eat a frog, it's best to do it first thing in the morning. And if it's your job to eat two frogs, it's best to eat the biggest one first."
-
+        Eat your largest frogs first
           
 3. Concept - Learn context of when to apply the concept you're learning (Practice with related and unrelated material)
           
