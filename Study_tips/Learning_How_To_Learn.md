@@ -35,17 +35,17 @@ An analogy for modes of learning := To make a wall, you need ...
 
 Procrastination shares features wiht addiction. When you think of studying you get an unhappy feeling so your mind tries to distract you to feel happy temporarily. This affect often snowballs.
 
-Try to identify your cue's for procrastination. Whenever you find yourself procrastinating, try to identify the cue that caused it and create a plan to redirect yourself to being productice.
+Whenever you find yourself procrastinating, try to identify the cues that cause it and create a plan to redirect it into a cue for something productive. 
 
-1. cue
+1. A cue could be in any of the following categories
   - location/surroundings (in your room, look something up on the web, ...)
-  - time of day (as soon as you get home from work/school)
+  - time of day (getting home from work/school)
   - how you feel (horny, tired, etc.)
-  - reactions (getting a text)
-2. routine
-  - plan to rewire old habits. Don't give up if at first you don't succeed.
-3. reward
-  - give yourself a reward if you succeed at rewiring a procrastination cue. It can be as simple as a feeling of 
+  - reactions (receiving a text)
+2. Once you discover a procrastination cue, plan to rewire old habits by doing something productive in response to the cue. 
+3. If you succeed at rewiring a procrastination cue, give yourself a reward after you finish the task. It can be as simple as a feeling of pride, making it a personal game, or anything you want.
+4. believe you can do it. Don't give up if at first you don't succeed.
+
 ## Habit (ToDo)
 
 -----------------------------------------------------------------------------------------------
@@ -127,6 +127,13 @@ If you get distracted during your pomodoro for an extended period of time, resta
 
 If you remember to do something important that can wait until after the pomodoro, make a note of it and fo back to focusing on studying. 
 
+## Tasks List
+
+Every evening you should write tasks for the next day. 
+1. Start small with a list you know you can do.
+2. Each task should focus on a process and not the product. (Ex. Tasks like "Read for 1 hour" instead of "Read chapter 1")
+3. Include a start time and a time where you will quit as well! 
+4. Eat your biggest frog first
 
 -----------------------------------------------------------------------------------------------
 
