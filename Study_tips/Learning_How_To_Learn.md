@@ -20,7 +20,7 @@ Your mind can enter the diffused mode by taking a step back and looking at the b
 The goal is to get a general feel of what you're trying to learn without looking at all of the details that complicate it.
 
 Methods:
-  1. Look at the big picture.
+  1. Look at the big picture, not the details.
   2. Picture walk := when reading a new chapter or section, skim ahead and look at the pictures and main ideas. 
 
 ### Focus Mode := type of thinking needed to solve a problem step by step
@@ -31,6 +31,68 @@ Your mind can enter the focused mode when you try to solve a specific problem an
 An analogy for modes of learning := To make a wall, you need ...
 
 ## Working Memory (ToDo)
+## Procrastination (ToDo)
+
+Procrastination shares features wiht addiction. When you think of studying you get an unhappy feeling so your mind tries to distract you to feel happy temporarily. This affect often snowballs.
+
+Try to identify your cue's for procrastination. Whenever you find yourself procrastinating, try to identify the cue that caused it and create a plan to redirect yourself to being productice.
+
+1. cue
+  - location/surroundings (in your room, look something up on the web, ...)
+  - time of day (as soon as you get home from work/school)
+  - how you feel (horny, tired, etc.)
+  - reactions (getting a text)
+2. routine
+  - plan to rewire old habits. Don't give up if at first you don't succeed.
+3. reward
+  - give yourself a reward if you succeed at rewiring a procrastination cue. It can be as simple as a feeling of 
+## Habit (ToDo)
+
+-----------------------------------------------------------------------------------------------
+
+# Methods of Learning
+
+## Chunking
+
+Chunking is uniting bits of information with meaning. (ex. walking requires many parts of your body to be accomplished, but it can be done with one thought. We have "chunked" how to walk)
+
+Remember that the working memory can usually only store 4 parts at a time. Chunked material only requires one slot so the brain can run more efficiently.
+
+
+## Recall
+## Process not Product
+## 
+
+## Putting it all together with Focus, Understand, and Concept (FUC)
+
+1. Focus - Use limited spots in working memory towards learning objective (don't be distracted!)
+          
+          When beginning to learn, do a picture walk of the material
+          Once you are familiar with the material, try to create chunks to use working memory efficiently.
+          
+          
+2. Understand - Understand basic ideas and do it yourself.
+
+      Read and then recall information (retrieval process enchances deep learning)
+          
+      Write summarizing notes in the margins (synthesize information into smaller chunks)
+          
+      Recall information in different locations (Want to remember independant of local queues)
+          
+      Deliberately practice what you don't have a solid grasp of and what you find difficult.
+      
+      Do your hardest task first. Mark Twain once said "If it's your hob to eat a frog, it's best to do it first thing in the morning. And if it's your job to eat two frogs, it's best to eat the biggest one first."
+
+          
+3. Concept - Learn context of when to apply the concept you're learning (Practice with related and unrelated material)
+          
+          Interleaving - practice jumping between different types of problems, concepts, and procedures. (ex. skipping between problem sets of different chapters).
+          
+          Recheck your answers as soon as you complete them and 
+          
+          Mixing up your learning builds flexibility and creativity. You may find surprising connections between different disciplines.
+          
+          Create a mock test environment where you are timed, can't look at your notes, and the questions aren't in the same order that they were when you learned them. 
 
 -----------------------------------------------------------------------------------------------
 
@@ -68,37 +130,6 @@ If you remember to do something important that can wait until after the pomodoro
 
 -----------------------------------------------------------------------------------------------
 
-# Methods of Learning
-
-
-
-
-## Putting it all together with Focus, Understand, and Concept (FUC)
-
-1. Focus - Use limited spots in working memory towards learning objective (don't be distracted!)
-          
-          Do a picture walk of the material
-          
-2. Understand - Understand basic ideas and do it yourself.
-
-          Read and then recall information (retrieval process enchances deep learning)
-          
-          Write summarizing notes in the margins (synthesize information into smaller chunks)
-          
-          Recall information in different locations (Want to remember independant of local queues)
-          
-3. Concept - Learn context of when to apply the concept you're learning (Practice with related and unrelated material)
-          
-          Interleaving - practice jumping between different types of problems, concepts, and procedures. (ex. skipping between problem sets of different chapters).
-          
-          Recheck your answers as soon as you complete them and 
-          
-          Mixing up your learning builds flexibility and creativity. You may find surprising connections between different disciplines.
-          
-          Create a mock test environment where you are timed, can't look at your notes, and the questions aren't in the same order that they were when you learned them. 
-
------------------------------------------------------------------------------------------------
-
 # Things to avoid and helpful tips
 
 Retrieve, don't keep rereading text
@@ -108,9 +139,6 @@ Don't create concept maps until you have a solid understanding.
 Synthesize instead of highlighting.
 
 Don't practice what you already know! Overlearning is a waste of time and can lead to einsetllung (set in the same mindset due to overlearning)
-
-
-
 
 
 ToDo : metaphors, analogies, mnemonics, interleaving, Long term memory -> how often to practice, do little every day, repetition, sleep, exercise, dreams, How to study something new  (focus, understand, context, chunk, pattern, no concept map), 
