@@ -30,6 +30,8 @@ Your mind can enter the focused mode when you try to solve a specific problem an
 
 An analogy for modes of learning := To make a wall, you need ...
 
+## Working Memory (ToDo)
+
 -----------------------------------------------------------------------------------------------
 
 # Study Techniques
@@ -64,5 +66,52 @@ If you get distracted during your pomodoro for an extended period of time, resta
 If you remember to do something important that can wait until after the pomodoro, make a note of it and fo back to focusing on studying. 
 
 
-ToDo : metaphors, analogies, mnemonics, interleaving, Long term memory -> how often to practice, do little every day, repetition, sleep, exercise, dreams, How to study something new  (focus, understand, context, chunk, pattern, no concept map),
+-----------------------------------------------------------------------------------------------
+
+# Methods of Learning
+
+
+
+
+## Putting it all together with Focus, Understand, and Concept (FUC)
+
+1. Focus - Use limited spots in working memory towards learning objective (don't be distracted!)
+          
+          Do a picture walk of the material
+          
+2. Understand - Understand basic ideas and do it yourself.
+
+          Read and then recall information (retrieval process enchances deep learning)
+          
+          Write summarizing notes in the margins (synthesize information into smaller chunks)
+          
+          Recall information in different locations (Want to remember independant of local queues)
+          
+3. Concept - Learn context of when to apply the concept you're learning (Practice with related and unrelated material)
+          
+          Interleaving - practice jumping between different types of problems, concepts, and procedures. (ex. skipping between problem sets of different chapters).
+          
+          Recheck your answers as soon as you complete them and 
+          
+          Mixing up your learning builds flexibility and creativity. You may find surprising connections between different disciplines.
+          
+          Create a mock test environment where you are timed, can't look at your notes, and the questions aren't in the same order that they were when you learned them. 
+
+-----------------------------------------------------------------------------------------------
+
+# Things to avoid and helpful tips
+
+Retrieve, don't keep rereading text
+
+Don't create concept maps until you have a solid understanding.
+
+Synthesize instead of highlighting.
+
+Don't practice what you already know! Overlearning is a waste of time and can lead to einsetllung (set in the same mindset due to overlearning)
+
+
+
+
+
+ToDo : metaphors, analogies, mnemonics, interleaving, Long term memory -> how often to practice, do little every day, repetition, sleep, exercise, dreams, How to study something new  (focus, understand, context, chunk, pattern, no concept map), 
 what is procrastination, ...
