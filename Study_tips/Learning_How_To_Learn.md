@@ -27,13 +27,15 @@ Methods:
 
 Your mind can enter the focused mode when you try to solve a specific problem and look at all details required to solve the problem.
 
-
-An analogy for modes of learning := To make a wall, you need ...
+An analogy may be helpful for understanding why you need to switch between the modes of learning. To make a strong wall, you need to place the bricks evenly apart with mortar between each brick. With just bricks and no mortar, the wall won't have any "glue" holding it togethe. It will be unstable and collapse. The same is true if you just use the focus mode. You need to take a break and look at the big picture to place mortar and allow it to dry. If you only use the diffuse mode, you won't know how to do specific problems and will only understand the general idea. It's like trying to build a wall when you don't have enough bricks.
 
 ## Working Memory (ToDo)
-## Procrastination (ToDo)
 
-Procrastination shares features wiht addiction. When you think of studying you get an unhappy feeling so your mind tries to distract you to feel happy temporarily. This affect often snowballs.
+
+
+## Procrastination 
+
+Procrastination shares features with addiction and is an attempt to switch your mental attention away from something painful. When you think of studying you get an unhappy feeling so your mind tries to distract you into do something else so you feel happy temporarily. This affect often snowballs.
 
 Whenever you find yourself procrastinating, try to identify the cues that cause it and create a plan to redirect it into a cue for something productive. 
 
@@ -60,15 +62,31 @@ Remember that the working memory can usually only store 4 parts at a time. Chunk
 
 
 ## Recall
+  When you read material, try to recall the main points without looking. Write down what you can remember and compare it to the written material. The retrieval process enchances deep learning.
+  
 ## Process not Product
-## 
+
+### Process := the flow of time and habits associated with it (ex. spend 30 minutes working on problems)
+
+### Product := end results (ex. finishing your homework, becoming a doctor, etc.)
+
+When you focus on the product, i.e finishing your homework, the end result may seem far from being achieved and it can be discouraging. Instead, focus on spending chunks of time spending your best effort working on problems. Each chunk of time you spend focusing during a process is a success and is worthy of a small reward. More on this below.
+
+## Picture walk
+  When reading something for the first time, do a picture walk of the material. If you are reading a chapter, skim ahead and look at 
+
+
+
+
+
+
 
 ## Putting it all together with Focus, Understand, and Concept (FUC)
 
 1. Focus - Use limited spots in working memory towards learning objective (don't be distracted!)
           
-          When beginning to learn, do a picture walk of the material
-          Once you are familiar with the material, try to create chunks to use working memory efficiently.
+          First time learning material -> Picture Walk
+          Familiar with the material -> Create chunks
           
           
 2. Understand - Understand basic ideas and do it yourself.
@@ -137,13 +155,11 @@ Every evening you should write tasks for the next day.
 
 -----------------------------------------------------------------------------------------------
 
-# Things to avoid and helpful tips
-
-Retrieve, don't keep rereading text
+# Things to avoid
 
 Don't create concept maps until you have a solid understanding.
 
-Synthesize instead of highlighting.
+Highlighting has been shown to not be very effective. Synthesize instead of highlighting. 
 
 Don't practice what you already know! Overlearning is a waste of time and can lead to einsetllung (set in the same mindset due to overlearning)
 
