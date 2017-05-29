@@ -73,11 +73,12 @@ Remember that the working memory can usually only store 4 parts at a time. Chunk
 When you focus on the product, i.e finishing your homework, the end result may seem far from being achieved and it can be discouraging. Instead, focus on spending chunks of time spending your best effort working on problems. Each chunk of time you spend focusing during a process is a success and is worthy of a small reward. More on this below.
 
 ## Picture walk
-  When reading something for the first time, do a picture walk of the material. If you are reading a chapter, skim ahead and look at 
 
+When reading something for the first time, do a picture walk of the material. If you are reading a chapter, skim ahead and look at the general theme of the chapter. Look at the pictures, read the headings and bolded text, and get an idea of what you're about to learn. The goal isn't to understand everything. You are just trying to become familiar with the material. When you actually read the chapter, you may find it easier to see how the details fit into the theme of the chapter.
 
+## Summarize
 
-
+Summarizing is a great way to tie everything together. 
 
 
 
@@ -91,7 +92,7 @@ When you focus on the product, i.e finishing your homework, the end result may s
           
 2. Understand - Understand basic ideas and do it yourself.
 
-      Read and then recall information (retrieval process enchances deep learning)
+        Read and Recall
           
       Write summarizing notes in the margins (synthesize information into smaller chunks)
           
