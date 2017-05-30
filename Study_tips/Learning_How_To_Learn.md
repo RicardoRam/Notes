@@ -27,11 +27,11 @@ Methods:
 
 Your mind can enter the focused mode when you try to solve a specific problem and look at all details required to solve the problem.
 
-An analogy may be helpful for understanding why you need to switch between the modes of learning. To make a strong wall, you need to place the bricks evenly apart with mortar between each brick. With just bricks and no mortar, the wall won't have any "glue" holding it togethe. It will be unstable and collapse. The same is true if you just use the focus mode. You need to take a break and look at the big picture to place mortar and allow it to dry. If you only use the diffuse mode, you won't know how to do specific problems and will only understand the general idea. It's like trying to build a wall when you don't have enough bricks.
+An analogy may be helpful for understanding why you need to switch between the modes of learning. To make a strong wall, you need to place the bricks evenly apart with mortar between each brick. With just bricks and no mortar, the wall won't have any "glue" holding it together. It will be unstable and collapse. The same is true if you just use the focus mode. You need to take a break and look at the big picture to place mortar and allow it to dry. If you only use the diffuse mode, you won't know how to do specific problems and will only understand the general idea. It's like trying to build a wall when you don't have enough bricks.
 
 ## Memory (ToDo)
 
-### Working memory := typically stores 3-4 chuncks temporarily. It is like an inefficient mental blackboard where chalk fades over time.
+### Working memory := typically stores 3-4 chunks temporarily. It is like an inefficient mental blackboard where chalk fades over time.
 
 ### Long term memory := stores memory long term (not indefinitely). May take time to access memory that wasn't learned through spaced repetition.
 
@@ -85,7 +85,7 @@ When you focus on the product, i.e finishing your homework, the end result may s
 
 ## Change locations
 
-Sometimes if you study in the same location regularly, you can only remember information because of environmental queues. You want to be able to recall information independantly of local queues like in an examination room. To do this, try studying in different locations.
+Sometimes if you study in the same location regularly, you can only remember information because of environmental queues. You want to be able to recall information independently of local queues like in an examination room. To do this, try studying in different locations.
 
 ## Deliberate Practice
 
@@ -99,7 +99,7 @@ Do your hardest task first. Mark Twain once said "If it's your job to eat a frog
 
 ## Recall (Focus Mode)
 
-When you read material, try to recall the main points without looking. Write down what you can remember and compare it to the written material. The retrieval process enchances deep learning.
+When you read material, try to recall the main points without looking. Write down what you can remember and compare it to the written material. The retrieval process enhances deep learning.
 
 ## Summarize (Focus Mode)
 
@@ -175,7 +175,7 @@ Additional Notes:
 
 If you get distracted during your pomodoro for an extended period of time, restart the timer and start over. That one didn't count.
 
-If you remember to do something important that can wait until after the pomodoro, make a note of it and fo back to focusing on studying. 
+If you remember to do something important that can wait until after the pomodoro, make a note of it and go back to focusing on studying. 
 
 ## Tasks List
 
@@ -193,10 +193,10 @@ Don't create concept maps until you have a solid understanding.
 
 Highlighting has been shown to not be very effective. Synthesize instead of highlighting. 
 
-Don't practice what you already know! Overlearning is a waste of time and can lead to einsetllung (set in the same mindset due to overlearning)
+Don't practice what you already know! Overlearning is a waste of time and can lead to einstellung (set in the same mindset due to overlearning)
 
 
-# Preparing for and Writing a Test (ToDo)
+# Preparing for and Writing a Test
 
 ## Preparing for a test checklist
 - Have you made an effort to understand the text?
@@ -213,10 +213,10 @@ NOTE: checklist only applies if you have prepared sufficiently for the test (see
 
 For multiple choice questions, cover the answers first and think of an answer. 
 
-1. Start with reading each problem (Uses Diffuse mode) so your brain subconciously tackles it.
-2. Tackle what you percieve as the hardest first. Spend 1-2 minutes on it and then start something different.
+1. Start with reading each problem (Uses Diffuse mode) so your brain subconsciously tackles it.
+2. Tackle what you perceive as the hardest first. Spend 1-2 minutes on it and then start something different.
 3. Go to the easiest one and complete/almost complete it and move on.
-4. Go to a different hard one. Spend 1-2 minutes and  move on.
+4. Go to a different hard one. Spend 1-2 minutes and move on.
 5. Go to a different easy one. Complete/almost complete it and move on.
 6. repeat steps 4-5 until you have attempted every question.
 7. Go back and complete each question as best as you can.
