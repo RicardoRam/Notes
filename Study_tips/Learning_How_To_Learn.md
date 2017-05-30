@@ -29,9 +29,16 @@ Your mind can enter the focused mode when you try to solve a specific problem an
 
 An analogy may be helpful for understanding why you need to switch between the modes of learning. To make a strong wall, you need to place the bricks evenly apart with mortar between each brick. With just bricks and no mortar, the wall won't have any "glue" holding it togethe. It will be unstable and collapse. The same is true if you just use the focus mode. You need to take a break and look at the big picture to place mortar and allow it to dry. If you only use the diffuse mode, you won't know how to do specific problems and will only understand the general idea. It's like trying to build a wall when you don't have enough bricks.
 
-## Working Memory (ToDo)
+## Memory (ToDo)
 
+### Working memory := typically stores 3-4 chuncks temporarily. It is like an inefficient mental blackboard where chalk fades over time.
 
+### Long term memory := stores memory long term (not indefinitely). May take time to access memory that wasn't learned through spaced repetition.
+
+### Spaced Repetition := practicing the learning the same concept over several days
+
+You must use spaced repetition to transfer memories from working memory into long term memory. 
+It is better to study something 20 times spaced out across a week instead of 20 times within a single day. 
 
 ## Procrastination 
 
@@ -48,11 +55,19 @@ Whenever you find yourself procrastinating, try to identify the cues that cause 
 3. If you succeed at rewiring a procrastination cue, give yourself a reward after you finish the task. It can be as simple as a feeling of pride, making it a personal game, or anything you want.
 4. believe you can do it. Don't give up if at first you don't succeed.
 
+## Sleep and Exercise
+
+Remember earlier when I mentioned spaced repetition is more effective than binge studying in the same day? This is because sleep restructures and tidies concepts, rehearses patterns, and washes away toxins in our brain. Getting enough sleep is very important!
+
+Exercising is beneficial because it can increase the growth of new neurons.
+
 ## Habit (ToDo)
 
 -----------------------------------------------------------------------------------------------
 
 # Methods of Learning
+
+## Metaphors, Analogies, and Mnemonics (ToDo)
 
 ## Chunking
 
@@ -80,7 +95,7 @@ Practice what you don't have a solid grasp of and what you find difficult. Overl
 
 Do your hardest task first. Mark Twain once said "If it's your job to eat a frog, it's best to do it first thing in the morning. And if it's your job to eat two frogs, it's best to eat the biggest one first."
 
-## Verify Answers (Focus Mode)
+## Verify Answers (Focus Mode) (ToDo)
 
 ## Recall (Focus Mode)
 
@@ -90,14 +105,14 @@ When you read material, try to recall the main points without looking. Write dow
 
 Summarizing is a great way to tie everything together and synthesize information into smaller chunks. It's a great way to create neural connections between ideas that are related.
 
-## Interleaving
+## Interleaving (ToDo)
 
 
 ## Picture walk (Diffuse Mode)
 
 When reading something for the first time, do a picture walk of the material. If you are reading a chapter, skim ahead and look at the general theme of the chapter. Look at the pictures, read the headings and bolded text, and get an idea of what you're about to learn. The goal isn't to understand everything. You are just trying to become familiar with the material. When you actually read the chapter, you may find it easier to see how the details fit into the theme of the chapter.
 
-## Create and do mock tests (Both modes)
+## Create and do mock tests (Both modes) (ToDo)
   
 ## Putting it all together with Focus, Understand, and Concept (FUC)
 
@@ -181,5 +196,29 @@ Highlighting has been shown to not be very effective. Synthesize instead of high
 Don't practice what you already know! Overlearning is a waste of time and can lead to einsetllung (set in the same mindset due to overlearning)
 
 
-ToDo : metaphors, analogies, mnemonics, interleaving, Long term memory -> how often to practice, do little every day, repetition, sleep, exercise, dreams, How to study something new  (focus, understand, context, chunk, pattern, no concept map), 
-what is procrastination, ...
+# Preparing for and Writing a Test (ToDo)
+
+## Preparing for a test checklist
+- Have you made an effort to understand the text?
+- Have you worked on all homework problems and checked solutions? Have you compared with a classmate?
+- Have you participated in discussions with T.A or classmates when stuck?
+- Did you understand all homework solutions and ask if you didn't understand something?
+- Did you go through study guide alone? Did you then go through it with a classmate?
+- Did you outlines a lot of problems quickly w/o going into algebraic solutions?
+- Did you sleep properly?
+
+## Writing a test
+
+NOTE: checklist only applies if you have prepared sufficiently for the test (see above)
+
+For multiple choice questions, cover the answers first and think of an answer. 
+
+1. Start with reading each problem (Uses Diffuse mode) so your brain subconciously tackles it.
+2. Tackle what you percieve as the hardest first. Spend 1-2 minutes on it and then start something different.
+3. Go to the easiest one and complete/almost complete it and move on.
+4. Go to a different hard one. Spend 1-2 minutes and  move on.
+5. Go to a different easy one. Complete/almost complete it and move on.
+6. repeat steps 4-5 until you have attempted every question.
+7. Go back and complete each question as best as you can.
+
+To use the above test plan, you must have self discipline to move onto another question. Make sure to practice this technique in a mock test setting until you are familiar with it. The point of this method is to have your brain switch between diffuse and focused modes during the test. You may find that an answer to a previous question may come to you while you're answering another question (A "Eureka!" momemt). 
