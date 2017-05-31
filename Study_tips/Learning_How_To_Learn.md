@@ -19,10 +19,6 @@ In order to learn, you must be able to switch between both modes.
 Your mind can enter the diffused mode by taking a step back and looking at the big picture of what you're trying to learn. 
 The goal is to get a general feel of what you're trying to learn without looking at all the intricate details.
 
-Methods:
-  1. Look at the big picture, not the details.
-  2. Picture walk := when reading a new chapter or section, skim ahead and look at the pictures and main ideas. 
-
 ### Focus Mode := type of thinking needed to solve a problem step by step
 
 Your mind can enter the focused mode when you try to solve a specific problem and look at all details required to solve the problem.
@@ -71,9 +67,9 @@ Exercising is beneficial because it can increase the growth of new neurons.
 
 ## Chunking
 
-Chunking is uniting bits of information with meaning. (ex. walking requires many parts of your body to be accomplished, but it can be done with one thought. We have "chunked" how to walk)
+Chunking is grouping information with meaning. (ex. walking requires many parts of your body to be accomplished, but it can be done with one thought. We have "chunked" how to walk). When you remember the group, you remember everything needed to accomplish it (all the muscles that must coordinate together to achieve the motion. If you have ever played the game QWOP, I imagine trying to run without our ability to chunk to be a little bit like that. If you haven't played the game, google it and try playing to see what I mean.
 
-Remember that the working memory can usually only store 4 parts at a time. Chunked material only requires one slot so the brain can run more efficiently.
+Remember that working memory can usually only store 4 parts at a time. Chunked material only requires one slot so the brain can run more efficiently.
 
 ## Process not Product
 
@@ -118,8 +114,8 @@ When reading something for the first time, do a picture walk of the material. If
 
 1. Focus - Use limited spots in working memory towards learning objective (don't be distracted!)
           
-          First time learning material -> Picture Walk
-          Familiar with the material -> Create chunks
+          First time learning material? -> Picture Walk
+          Familiar with the material? -> Create chunks
           
           
 2. Understand - Understand basic ideas and do it yourself.
@@ -213,12 +209,12 @@ NOTE: checklist only applies if you have prepared sufficiently for the test (see
 
 For multiple choice questions, cover the answers first and think of an answer. 
 
-1. Start with reading each problem (Uses Diffuse mode) so your brain subconsciously tackles it.
-2. Tackle what you perceive as the hardest first. Spend 1-2 minutes on it and then start something different.
-3. Go to the easiest one and complete/almost complete it and move on.
-4. Go to a different hard one. Spend 1-2 minutes and move on.
-5. Go to a different easy one. Complete/almost complete it and move on.
-6. repeat steps 4-5 until you have attempted every question.
+1. Start with reading each problem so your brain subconsciously tackles it. (Diffuse mode)
+2. Tackle what you perceive as the hardest first (Focus mode). Spend 1-2 minutes on it and then start something different.
+3. Go to the easiest one and complete/almost complete it and move on. (Focus Mode on easy question/Diffuse mode on hard question)
+4. Go to a unvisited hard one. Spend 1-2 minutes and move on.
+5. Go to a unvisited easy one. Complete/almost complete it and move on.
+6. Repeat steps 4-5 until you have attempted every question.
 7. Go back and complete each question as best as you can.
 
-To use the above test plan, you must have self discipline to move onto another question. Make sure to practice this technique in a mock test setting until you are familiar with it. The point of this method is to have your brain switch between diffuse and focused modes during the test. You may find that an answer to a previous question may come to you while you're answering another question (A "Eureka!" momemt). 
+To use the above test plan, you must have self discipline to move onto another question. Make sure to practice this technique in a mock test setting until you are familiar with it. The point of this method is to have your brain switch between diffuse and focused modes during the test. You may find that an answer to a previous question may come to you while you're answering another question (A "Eureka!" momemt). Step one forces you to subconsciously process every question even while you're focusing on a particular question in the later steps. This method optimizes the use of your brain during a test. If you've ever had a Eureka moment after you've already handed in your test, you could probably benefit from this method.
