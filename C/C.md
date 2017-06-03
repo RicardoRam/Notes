@@ -12,6 +12,7 @@ ex. 1
     return 0; //return 0; in main means finish executing program
     }
     // ; := end of instruction
+    
 ### Memory := where computer stores information (grid with cells)
 
 ### Variable := A section of memory reserved by a program and used as a placeholder for a value.
@@ -87,7 +88,7 @@ Ex. printf(“%lf centimeters is %lf inches. \n”, cm, inches);
 
  
  
-Useful Format Specifiers
+### Useful Format Specifiers
 
 %i, %d := tell program to expect an integer. (must be provided)
 
@@ -105,3 +106,31 @@ Useful Format Specifiers
 
 %p := pointer
  
+### Operators
+
+Less than <
+Greater than >
+Equal to ==
+Greater than or equal to >=
+Less than or equal to <=
+Not equal to !=
+ 
+Conditional/Logical Operators
+Operator Description
+Operator
+AND && (when both expressions are true)
+OR || True when one or both conditions are true
+Not !
+
+### Function Prototype := Tells compiler how to run program. Without one, we get a warning/error. Can declare and define function at the same time (if done above main).
+1. name
+2. return type
+3. list of arguments (can be expressions or function calls (will be evaluated first))
+4. Semicolon
+
+Ex. double fmax(double x, double y); //double fmax(double, double); also valid
+
+If we call want to call a function from a different program, must tell compiler where it comes from using #include
+
+
+
