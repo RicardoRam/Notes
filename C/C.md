@@ -1,3 +1,5 @@
+### ToDo: Add K&M, The C programming langauge, CSC209, and then C++ stuff
+
 # Background Information
 
 ### Program := sequence of instructions to a computer
