@@ -1,4 +1,4 @@
-# Reviewed: June 3,4,6
+# Reviewed: June 3,4,6,7
 
 ### ToDo: Add K&M, The C programming langauge, CSC209, and then C++ stuff
 
