@@ -1,4 +1,4 @@
-# Learning How To Learn.
+# Learning How To Learn
 
 # Special Mentions
 
@@ -95,7 +95,7 @@ Work on the most disliked tasks first
 
 # Methods of Learning
 
-## Creating Tools For Your Toolbox
+## Create Tools For Your Toolbox
 
 Exercises in creativity like creating metaphors, analogies, and mnemonics can help make it stick.
 
@@ -129,7 +129,19 @@ Pattern to create chunks: listen, watch, and grasp parts of what needed and then
 
 Chunking is different depending on what you're learning, but in general it follows the pattern above.
 
-## Change locations
+Allow concepts to network among themselves. Gadually build the number of chunks in your mind and create a library of patterns
+
+transfer := using chunks already built to learn new things
+
+## Problem Solving
+
+There are two types of problem solving:
+
+Sequential := step by step solutions
+
+Holistic := intuition, creative, unrelated thoughts. 
+
+## Change Locations
 
 Sometimes if you study in the same location regularly, you can only remember information at that location because of environmental queues. You want to be able to recall information regardless of where you are like when you are writing an exam. Make sure to change where you study!
 
@@ -145,11 +157,11 @@ Do your hardest task first. Mark Twain once said "If it's your job to eat a frog
 
 If you find that sometimes you hit a brick wall in learning and you're unable to learn, don't worry this is normal and can occur temporarily. It is thought that the brain is restructuring during this time.
 
-## Verify Answers (Focus Mode) (ToDo)
+## Picture walk (Diffuse Mode)
 
-Check your answers as soon as you have completed them. Analyze the solution
+When reading something for the first time, do a picture walk of the material. If you are reading a chapter, skim ahead and look at the general theme of the chapter. Look at the pictures, read the headings and bolded text, and get an idea of what you're about to learn. The goal isn't to understand everything. You are just trying to become familiar with the material. When you actually read the chapter, you may find it easier to see how the details fit into the theme of the chapter.
 
-## Recall (Focus Mode)
+## Read and Recall (Focus Mode)
 
 When you read material, try to recall the main points without looking. Write down what you can remember and compare it to the written material. The retrieval process enhances deep learning.
 
@@ -157,28 +169,29 @@ When you read material, try to recall the main points without looking. Write dow
 
 Summarizing is a great way to tie everything together and synthesize information into smaller chunks. It's a great way to create neural connections between ideas that are related.
 
-## Interleaving (ToDo)
+### Illusions of Competency (Focus Mode)
 
-Practice jumping between different types of problems, concepts, and procedures. eg. skipping around to problems in different chapters. This mixes up your learning and builds flexibility and creativity.
-
-# Illusions of Competency 
-
-  Studies have shown that highlighting text can fool you into thinking you know the information you highlighted, when that may not be the case. Instead, test yourself on your knowledge by trying to recall the information without it in front of you.
+Studies have shown that highlighting text can fool you into thinking you know the information you highlighted, when that may not be the case. Instead, test yourself on your knowledge by trying to recall the information without it in front of you.
   
-  Write notes in margins instead of highlighting
+Write notes in margins instead of highlighting
   
-  Recall information without notes in front of you 
+Recall information without notes in front of you 
   
-  Making mistakes are illusions of competency you have caught. 
+Making mistakes are illusions of competency you have caught. 
   
-  Keep deliberately practicing
-  
+Keep deliberately practicing
 
-## Picture walk (Diffuse Mode)
+## Verify Answers (Focus Mode)
 
-When reading something for the first time, do a picture walk of the material. If you are reading a chapter, skim ahead and look at the general theme of the chapter. Look at the pictures, read the headings and bolded text, and get an idea of what you're about to learn. The goal isn't to understand everything. You are just trying to become familiar with the material. When you actually read the chapter, you may find it easier to see how the details fit into the theme of the chapter.
+Check your answers as soon as you have completed them. Analyze the solution and always look at the big picture.
 
-## Create and do mock tests (Both modes) (ToDo)
+## Interleave (Focus Mode)
+
+Once you have a basic understanding, practice jumping between different types of problems, concepts, and procedures. eg. skipping around to problems in different chapters. This mixes up your learning and builds flexibility and creativity. You may find surprising connections between different disciplines.
+
+## Create Mock Test Environment (Both modes)
+
+Creating mock tests are a great way to test your mastery of a subject once you feel you have a solid grasp. Create a mock test where you are timed, can't look at your notes, and the questions aren't in the same order that they were when you learned them. The closer you can make it to an exam setting, the more prepared you will feel during the actual exam.
   
 ## Putting it all together with Focus, Understand, and Concept (FUC)
 
@@ -197,25 +210,25 @@ When reading something for the first time, do a picture walk of the material. If
           
         Change locations
           
-        Deliberately practice
+        Deliberately Practice
         
-        Creating Tools For Your Toolbox
+        Verify Answers
+        
+        Create Tools For Your Toolbox
       
-        Eat your largest frogs first
+        Eat Your Biggest Frogs First
           
 3. Concept - Learn context of when to apply the concept you're learning (Practice with related and unrelated material)
           
-          Interleaving - practice jumping between different types of problems, concepts, and procedures. (ex. skipping between problem sets of different chapters).
+          Interleave
           
           Recheck your answers as soon as you complete them and 
           
-          Mixing up your learning builds flexibility and creativity. You may find surprising connections between different disciplines.
-          
-          Create a mock test environment where you are timed, can't look at your notes, and the questions aren't in the same order that they were when you learned them. 
+          Create Mock Test Environment
 
 -----------------------------------------------------------------------------------------------
 
-# Study Techniques
+# Study Aids
 
 ## Pomodoro Technique:
 
@@ -248,7 +261,7 @@ If you remember to do something important that can wait until after the pomodoro
 
 ## Tasks List
 
-Every evening you should write tasks for the next day. 
+Before the end of each day you should write tasks for the next day. 
 1. Start small with a list you know you can do.
 2. Each task should focus on a process and not the product. (Ex. Tasks like "Read for 1 hour" instead of "Read chapter 1")
 3. Include a start time and a time where you will quit as well! 
@@ -262,21 +275,18 @@ Don't create concept maps until you have a solid understanding.
 
 Highlighting has been shown to not be very effective. Synthesize instead of highlighting. 
 
-Don't practice what you already know! Overlearning is a waste of time and can lead to Einstellung := set in the same mindset due to overlearning)
+Don't practice what you already know! Overlearning is a waste of time and can lead to Einstellung := set in the same mindset due to overlearning
 
+## Preparing for a Test Checklist
+Have you made an effort to understand the text?
+Have you worked on all homework problems and checked solutions? Have you compared with a classmate?
+Have you participated in discussions with T.A or classmates when stuck?
+Did you understand all homework solutions and ask if you didn't understand something?
+Did you go through study guide alone? Did you then go through it with a classmate?
+Did you outlines a lot of problems quickly w/o going into algebraic solutions?
+Did you sleep properly?
 
-# Preparing for and Writing a Test
-
-## Preparing for a test checklist
-- Have you made an effort to understand the text?
-- Have you worked on all homework problems and checked solutions? Have you compared with a classmate?
-- Have you participated in discussions with T.A or classmates when stuck?
-- Did you understand all homework solutions and ask if you didn't understand something?
-- Did you go through study guide alone? Did you then go through it with a classmate?
-- Did you outlines a lot of problems quickly w/o going into algebraic solutions?
-- Did you sleep properly?
-
-## Writing a test
+## Writing a Test
 
 NOTE: checklist only applies if you have prepared sufficiently for the test (see above)
 
