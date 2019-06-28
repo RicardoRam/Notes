@@ -9,12 +9,23 @@ Coursera (https://www.coursera.org/learn/learning-how-to-learn)
 -----------------------------------------------------------------------------------------------
 # Background Information
 
+## Memory
+
+### Working memory := typically stores 3-4 chunks temporarily. It is like an inefficient mental blackboard where chalk fades over time.
+
+### Long term memory := stores memory long term (not indefinitely). May take time to access memory that wasn't repeated
+
+### Spaced Repetition := practicing the same concept over several days
+
+You must use spaced repetition to transfer memories from working memory into long term memory. 
+It is better to study something 20 times spaced out across a week instead of 20 times within a single day.
+
 ## Modes of Learning
 
 There are two modes of thinking called the Focus mode and the Diffuse mode defined in bold below. 
 In order to learn, you must be able to switch between both modes.
 
-### Diffuse Mode := type of thinking required to learn something new (broad learning)
+### Diffuse Mode := type of thinking required to learn something new
 
 Your mind can enter the diffused mode by taking a step back and looking at the big picture of what you're trying to learn. 
 The goal is to get a general feel of what you're trying to learn without looking at all the intricate details.
@@ -25,63 +36,102 @@ Your mind can enter the focused mode when you try to solve a specific problem an
 
 An analogy may be helpful for understanding why you need to switch between the modes of learning. To make a strong wall, you need to place the bricks evenly apart with mortar between each brick. With just bricks and no mortar, the wall won't have any "glue" holding it together. It will be unstable and collapse. The same is true if you just use the focus mode. You need to take a break and look at the big picture to place mortar and allow it to dry. If you only use the diffuse mode, you won't know how to do specific problems and will only understand the general idea. It's like trying to build a wall when you don't have enough bricks.
 
-## Memory (ToDo)
-
-### Working memory := typically stores 3-4 chunks temporarily. It is like an inefficient mental blackboard where chalk fades over time.
-
-### Long term memory := stores memory long term (not indefinitely). May take time to access memory that wasn't learned through spaced repetition.
-
-### Spaced Repetition := practicing the learning the same concept over several days
-
-You must use spaced repetition to transfer memories from working memory into long term memory. 
-It is better to study something 20 times spaced out across a week instead of 20 times within a single day. 
-
 ## Procrastination 
 
-Procrastination shares features with addiction and is an attempt to switch your mental attention away from something painful. When you think of studying you get an unhappy feeling so your mind tries to distract you into do something else so you feel happy temporarily. This affect often snowballs.
+Procrastination shares features with addiction and is your brain's attempt to switch your mental attention away from something painful. When you think of studying, you get an unhappy feeling and your mind tries to distract you to do something else so you feel happy temporarily. This affect often snowballs.
 
-Whenever you find yourself procrastinating, try to identify the cues that cause it and create a plan to redirect it into a cue for something productive. 
+Whenever you find yourself procrastinating, try to identify the cues that cause it and create a plan to redirect it into a cue for something productive, i.e a healthy habit.
 
-1. A cue could be in any of the following categories
-  - location/surroundings (in your room, look something up on the web, ...)
-  - time of day (getting home from work/school)
-  - how you feel (horny, tired, etc.)
-  - reactions (receiving a text)
-2. Once you discover a procrastination cue, plan to rewire old habits by doing something productive in response to the cue. 
-3. If you succeed at rewiring a procrastination cue, give yourself a reward after you finish the task. It can be as simple as a feeling of pride, making it a personal game, or anything you want.
-4. believe you can do it. Don't give up if at first you don't succeed.
+### Habit := when you don't have to think about doing a task; doing it is automatic.
 
-## Sleep and Exercise
+In order to create healthy habits, we need to understand what our procratination habits are and rewire them. We can do this by breaking down the components a habit is comprised of:
 
-Remember earlier when I mentioned spaced repetition is more effective than binge studying in the same day? This is because sleep restructures and tidies concepts, rehearses patterns, and washes away toxins in our brain. Getting enough sleep is very important!
+1. Cue := triggers an event
 
-Exercising is beneficial because it can increase the growth of new neurons.
+  A cue could be in any of the following:
+  
+  - location/surroundings (in your room, look something up on the web, etc.)
+  
+  - time of day (getting home from work/school, just waking up, etc.)
+  
+  - how you feel (tired, hungry, etc.)
+  
+  Try identifing your personal procrastination cues.
+  
+2. Routine := a sequence of actions taken when a cue is received.
 
-## Habit (ToDo)
+  Once you discover a procrastination cue, plan to rewire old habits by doing something productive in response to the cue. 
+
+3. Reward := the reward system in your brain is activated when finished the routine 
+
+  If you succeed at rewiring a procrastination cue, give yourself a reward after you finish the task. It can be as simple as a feeling of pride, making it a personal game, or anything you want (within reason).
+  
+4. Belief := A set of principles that help us understand our situation. There must be a change in your belief to change your habit.
+
+  Believe you can do it. Don't give up if at first you don't succeed. 
+  
+## Process vs. Product
+
+### Process := the flow of time and habits associated with it (spend 30 minutes doing homework problems)
+### Product := the end result (e.g finishing homework, becoming a doctor)
+
+When you focus on the product, i.e finishing your homework, the end result may seem far from being achieved and it can be discouraging. Instead, focus on spending chunks of time spending your best effort working on problems. Each chunk of time you spend focusing during a process is a success and is worthy of a small reward. More on this later.
+
+## Sleep & Exercise
+
+Remember earlier when I mentioned spaced repetition is more effective than binge studying in the same day? This is because sleep restructures and tidies concepts, rehearses patterns, and washes away toxins in our brain. Getting enough sleep is very important! Dreaming about concepts you're trying to learn solidifies them. To take full advantage of this, study 30 minutes before going to bed.
+
+Exercising is beneficial because it increases the growth of new neurons.
+
+## Plan Ahead
+
+Every evening, write 'process' tasks for the next day. 
+
+Plan a quit time! There is a high chance of feeling burnt out of you don't plan what time you will stop.
+
+Work on the most disliked tasks first
 
 -----------------------------------------------------------------------------------------------
 
 # Methods of Learning
 
-## Metaphors, Analogies, and Mnemonics (ToDo)
+## Creating Tools For Your Toolbox
 
-## Chunking
+Exercises in creativity like creating metaphors, analogies, and mnemonics can help make it stick.
 
-Chunking is grouping information with meaning. (ex. walking requires many parts of your body to be accomplished, but it can be done with one thought. We have "chunked" how to walk). When you remember the group, you remember everything needed to accomplish it (all the muscles that must coordinate together to achieve the motion. If you have ever played the game QWOP, I imagine trying to run without our ability to chunk to be a little bit like that. If you haven't played the game, google it and try playing to see what I mean.
+Metaphors can link two ideas and help identify similarities between them. 
+
+Analogies are a great way to explain the unfamiliar by using an example that is familiar.
+
+Memory Palace := call to mind an area you're familiar with to learn unrealated lists
+ 
+ ex. imagine objects in areas of the place. try to make it funny and evocative. you can mix it up further by imagining sounds and smells
+
+Mnemonics := Link concepts together with a memorable sentence, phrase, word, poem, or even an image.
+
+  eg. Learn the colors of the color spectrum by remembering the name ROY G. BIV. Each letter represents the first letter of the color in the spectrum: Red, Orange, Yellow, Green, Blue, Indigo, Violet.
+
+Imagine imagery associated with acronyms:
+
+  eg. imagine Roy G. Biv standing at the end of a rainbow
+
+A common theme of these methods is that you chunk many words into one idea. This brings us to our next section:   
+
+## Chunking := grouping information with meaning.
+
+An example is walking. Walking requires many parts of your body to be accomplished, but it can be done with one thought. We have "chunked" how to walk. 
+
+When you call to mind a chunk of information, you remember everything needed to accomplish it. All of the muscles required to walk automatically coordinate together to achieve the motion. If you have ever played the game QWOP, I imagine trying to run without our ability to chunk to be a little bit like that. If you haven't played the game, google it and try playing to see what I mean.
 
 Remember that working memory can usually only store 4 parts at a time. Chunked material only requires one slot so the brain can run more efficiently.
 
-## Process not Product
+Pattern to create chunks: listen, watch, and grasp parts of what needed and then join them together. Look at the solution and see why each step was taken in that order. Don't tunnel vision on a specific answer, but generalize connections between the steps. 
 
-### Process := the flow of time and habits associated with it (ex. spend 30 minutes working on problems)
-
-### Product := end results (ex. finishing your homework, becoming a doctor, etc.)
-
-When you focus on the product, i.e finishing your homework, the end result may seem far from being achieved and it can be discouraging. Instead, focus on spending chunks of time spending your best effort working on problems. Each chunk of time you spend focusing during a process is a success and is worthy of a small reward. More on this below.
+Chunking is different depending on what you're learning, but in general it follows the pattern above.
 
 ## Change locations
 
-Sometimes if you study in the same location regularly, you can only remember information because of environmental queues. You want to be able to recall information independently of local queues like in an examination room. To do this, try studying in different locations.
+Sometimes if you study in the same location regularly, you can only remember information at that location because of environmental queues. You want to be able to recall information regardless of where you are like when you are writing an exam. Make sure to change where you study!
 
 ## Deliberate Practice
 
@@ -91,7 +141,13 @@ Practice what you don't have a solid grasp of and what you find difficult. Overl
 
 Do your hardest task first. Mark Twain once said "If it's your job to eat a frog, it's best to do it first thing in the morning. And if it's your job to eat two frogs, it's best to eat the biggest one first."
 
+## Knowledge Restructuring
+
+If you find that sometimes you hit a brick wall in learning and you're unable to learn, don't worry this is normal and can occur temporarily. It is thought that the brain is restructuring during this time.
+
 ## Verify Answers (Focus Mode) (ToDo)
+
+Check your answers as soon as you have completed them. Analyze the solution
 
 ## Recall (Focus Mode)
 
@@ -103,6 +159,20 @@ Summarizing is a great way to tie everything together and synthesize information
 
 ## Interleaving (ToDo)
 
+Practice jumping between different types of problems, concepts, and procedures. eg. skipping around to problems in different chapters. This mixes up your learning and builds flexibility and creativity.
+
+# Illusions of Competency 
+
+  Studies have shown that highlighting text can fool you into thinking you know the information you highlighted, when that may not be the case. Instead, test yourself on your knowledge by trying to recall the information without it in front of you.
+  
+  Write notes in margins instead of highlighting
+  
+  Recall information without notes in front of you 
+  
+  Making mistakes are illusions of competency you have caught. 
+  
+  Keep deliberately practicing
+  
 
 ## Picture walk (Diffuse Mode)
 
@@ -114,8 +184,9 @@ When reading something for the first time, do a picture walk of the material. If
 
 1. Focus - Use limited spots in working memory towards learning objective (don't be distracted!)
           
-          First time learning material? -> Picture Walk
-          Familiar with the material? -> Create chunks
+         First time learning material? -> Picture Walk
+         
+         Familiar with the material? -> Create chunks
           
           
 2. Understand - Understand basic ideas and do it yourself.
@@ -127,6 +198,8 @@ When reading something for the first time, do a picture walk of the material. If
         Change locations
           
         Deliberately practice
+        
+        Creating Tools For Your Toolbox
       
         Eat your largest frogs first
           
@@ -155,7 +228,7 @@ Your focus should not be about the end result because you may not be able to com
 
 Note: Requires a timer*. 
 
-*If you don't have a timer, search online or in an app store for "Pomodoro timer".
+*If you don't have a timer, search online or look for a pomodoro timer app.
 
 How it works:
 
@@ -189,7 +262,7 @@ Don't create concept maps until you have a solid understanding.
 
 Highlighting has been shown to not be very effective. Synthesize instead of highlighting. 
 
-Don't practice what you already know! Overlearning is a waste of time and can lead to einstellung (set in the same mindset due to overlearning)
+Don't practice what you already know! Overlearning is a waste of time and can lead to Einstellung := set in the same mindset due to overlearning)
 
 
 # Preparing for and Writing a Test
