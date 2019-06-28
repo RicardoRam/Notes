@@ -46,27 +46,27 @@ Whenever you find yourself procrastinating, try to identify the cues that cause 
 
 In order to create healthy habits, we need to understand what our procratination habits are and rewire them. We can do this by breaking down the components a habit is comprised of:
 
-1. Cue := triggers an event
+#### Cue := triggers an event
 
-  A cue could be in any of the following:
+A cue could be in any of the following:
   
-  - location/surroundings (in your room, look something up on the web, etc.)
+  Location/surroundings (in your room, look something up on the web, etc.)
   
-  - time of day (getting home from work/school, just waking up, etc.)
+  Time of day (getting home from work/school, just waking up, etc.)
   
-  - how you feel (tired, hungry, etc.)
+  Feeling (tired, hungry, etc.)
   
-  Try identifing your personal procrastination cues.
+Try identifing your personal procrastination cues.
   
-2. Routine := a sequence of actions taken when a cue is received.
+#### Routine := a sequence of actions taken when a cue is received.
 
   Once you discover a procrastination cue, plan to rewire old habits by doing something productive in response to the cue. 
 
-3. Reward := the reward system in your brain is activated when finished the routine 
+#### Reward := the reward system in your brain is activated when finished the routine 
 
   If you succeed at rewiring a procrastination cue, give yourself a reward after you finish the task. It can be as simple as a feeling of pride, making it a personal game, or anything you want (within reason).
   
-4. Belief := A set of principles that help us understand our situation. There must be a change in your belief to change your habit.
+#### Belief := A set of principles that help us understand our situation. There must be a change in your belief to change your habit.
 
   Believe you can do it. Don't give up if at first you don't succeed. 
   
@@ -99,19 +99,19 @@ Work on the most disliked tasks first
 
 Exercises in creativity like creating metaphors, analogies, and mnemonics can help make it stick.
 
-Metaphors can link two ideas and help identify similarities between them. 
+#### Metaphors can link two ideas and help identify similarities between them. 
 
-Analogies are a great way to explain the unfamiliar by using an example that is familiar.
+#### Analogies are a great way to explain the unfamiliar by using an example that is familiar.
 
-Memory Palace := call to mind an area you're familiar with to learn unrealated lists
+#### Memory Palace := call to mind an area you're familiar with to learn unrealated lists
  
  ex. imagine objects in areas of the place. try to make it funny and evocative. you can mix it up further by imagining sounds and smells
 
-Mnemonics := Link concepts together with a memorable sentence, phrase, word, poem, or even an image.
+#### Mnemonics := Link concepts together with a memorable sentence, phrase, word, poem, or even an image.
 
   eg. Learn the colors of the color spectrum by remembering the name ROY G. BIV. Each letter represents the first letter of the color in the spectrum: Red, Orange, Yellow, Green, Blue, Indigo, Violet.
 
-Imagine imagery associated with acronyms:
+#### Imagine imagery associated with acronyms:
 
   eg. imagine Roy G. Biv standing at the end of a rainbow
 
@@ -233,10 +233,15 @@ Creating mock tests are a great way to test your mastery of a subject once you f
 ## Pomodoro Technique:
 
 The pomodoro technique is used to learn something new while avoiding procrastination. 
+
 In summary, it requires cycles of concentrated studying for a period of time, followed by a short break, and then a small reward. 
+
 Before you begin, minimize the distractions around you. 
+
 If it's possible, go to a quiet place and remove anything distracting from your study space, especially devices. 
+
 During the pomodoro, your focus should be on spending your best effort actively learning for 25 minutes. 
+
 Your focus should not be about the end result because you may not be able to complete your task in 25 minutes. Tasks will become complete as a side effect of doing enough pomodoro's.
 
 Note: Requires a timer*. 
@@ -262,9 +267,13 @@ If you remember to do something important that can wait until after the pomodoro
 ## Tasks List
 
 Before the end of each day you should write tasks for the next day. 
+
 1. Start small with a list you know you can do.
+
 2. Each task should focus on a process and not the product. (Ex. Tasks like "Read for 1 hour" instead of "Read chapter 1")
+
 3. Include a start time and a time where you will quit as well! 
+
 4. Eat your biggest frog first
 
 -----------------------------------------------------------------------------------------------
@@ -279,11 +288,17 @@ Don't practice what you already know! Overlearning is a waste of time and can le
 
 ## Preparing for a Test Checklist
 Have you made an effort to understand the text?
+
 Have you worked on all homework problems and checked solutions? Have you compared with a classmate?
+
 Have you participated in discussions with T.A or classmates when stuck?
+
 Did you understand all homework solutions and ask if you didn't understand something?
+
 Did you go through study guide alone? Did you then go through it with a classmate?
+
 Did you outlines a lot of problems quickly w/o going into algebraic solutions?
+
 Did you sleep properly?
 
 ## Writing a Test
@@ -293,11 +308,17 @@ NOTE: checklist only applies if you have prepared sufficiently for the test (see
 For multiple choice questions, cover the answers first and think of an answer. 
 
 1. Start with reading each problem so your brain subconsciously tackles it. (Diffuse mode)
+
 2. Tackle what you perceive as the hardest first (Focus mode). Spend 1-2 minutes on it and then start something different.
+
 3. Go to the easiest one and complete/almost complete it and move on. (Focus Mode on easy question/Diffuse mode on hard question)
+
 4. Go to a unvisited hard one. Spend 1-2 minutes and move on.
+
 5. Go to a unvisited easy one. Complete/almost complete it and move on.
+
 6. Repeat steps 4-5 until you have attempted every question.
+
 7. Go back and complete each question as best as you can.
 
 To use the above test plan, you must have self discipline to move onto another question. Make sure to practice this technique in a mock test setting until you are familiar with it. The point of this method is to have your brain switch between diffuse and focused modes during the test. You may find that an answer to a previous question may come to you while you're answering another question (A "Eureka!" momemt). Step one forces you to subconsciously process every question even while you're focusing on a particular question in the later steps. This method optimizes the use of your brain during a test. If you've ever had a Eureka moment after you've already handed in your test, you could probably benefit from this method.
