@@ -2,9 +2,9 @@
 
 # Special Mentions
 
-This guide summarizes the following resource(s):
+This guide summarizes the following Coursera course:
 
-Coursera (https://www.coursera.org/learn/learning-how-to-learn)
+[Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn)
 
 -----------------------------------------------------------------------------------------------
 # Background Information
@@ -18,21 +18,24 @@ Coursera (https://www.coursera.org/learn/learning-how-to-learn)
 ### Spaced Repetition := practicing the same concept over several days
 
 You must use spaced repetition to transfer memories from working memory into long term memory. 
+
 It is better to study something 20 times spaced out across a week instead of 20 times within a single day.
 
 ## Modes of Learning
 
 There are two modes of thinking called the Focus mode and the Diffuse mode defined in bold below. 
+
 In order to learn, you must be able to switch between both modes.
 
 ### Diffuse Mode := type of thinking required to learn something new
 
-Your mind can enter the diffused mode by taking a step back and looking at the big picture of what you're trying to learn. 
+Your can enter the diffused mode by taking a step back and looking at the big picture of what you're trying to learn. 
+
 The goal is to get a general feel of what you're trying to learn without looking at all the intricate details.
 
 ### Focus Mode := type of thinking needed to solve a problem step by step
 
-Your mind can enter the focused mode when you try to solve a specific problem and look at all details required to solve the problem.
+Your can enter the focused mode when you try to solve a specific problem and look at all details required to solve the problem.
 
 An analogy may be helpful for understanding why you need to switch between the modes of learning. To make a strong wall, you need to place the bricks evenly apart with mortar between each brick. With just bricks and no mortar, the wall won't have any "glue" holding it together. It will be unstable and collapse. The same is true if you just use the focus mode. You need to take a break and look at the big picture to place mortar and allow it to dry. If you only use the diffuse mode, you won't know how to do specific problems and will only understand the general idea. It's like trying to build a wall when you don't have enough bricks.
 
